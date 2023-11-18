@@ -11,10 +11,10 @@ const app = express()
 // app.get('/hello', (req, res) => {res.send('Life is good!')})
 // app.get('/', (req, res) => {res.send('Welcome to Full Stack Development!')})
 
-app.use(cors({
+app.use(
+    cors({
     credentials: true,
     origin: process.env.FRONTEND_URL,
-    optionSuccessStatus: 200
     // origin:"http://localhost:3000"
 }
 ));

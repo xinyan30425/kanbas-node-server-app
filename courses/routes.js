@@ -18,6 +18,7 @@ function CourseRoutes(app) {
 
     app.get("/api/courses/:id", (req, res) => {
         const { id } = req.params;
+
         const course = db.courses
             .find((c) => c._id === id);
         if (!course) {
