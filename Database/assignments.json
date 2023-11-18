@@ -1,47 +1,112 @@
 [
     {
-        "_id": "A101",
-        "title": "Propulsion Assignment",
-        "course": "RS101"
+        "_id": "101",
+        "title": "A1 - ENV + HTML",
+        "course": "RS101",
+        "description": "assignment instructions available online",
+        "date": "Multiple Modules | Due Sep 18 at 11:59pm | 100 pts",
+        "points": 100,
+        "dueDate": "2023-12-01T23:59:00Z",
+        "availableFrom": "2023-11-01T00:00:00Z",
+        "untilDate": "2023-12-01T23:59:00Z"
     },
     {
-        "_id": "A102",
-        "title": "Combustion Analysis",
-        "course": "RS101"
+        "_id": "102",
+        "title": "A2 - CSS + BOOTSTRAPL",
+        "course": "RS101",
+        "description": "assignment instructions available online",
+        "date": "Multiple Modules | Due Sep 18 at 11:59pm | 100 pts",
+        "points": 100,
+        "dueDate": "2023-12-01T23:59:00Z",
+        "availableFrom": "2023-11-01T00:00:00Z",
+        "untilDate": "2023-12-01T23:59:00Z"
     },
     {
-        "_id": "A103",
-        "title": "Nozzle Design Project",
-        "course": "RS101"
+        "_id": "103",
+        "title": "A3 JS",
+        "course": "RS101",
+        "description": "assignment instructions available online",
+        "date": "Multiple Modules | Due Sep 18 at 11:59pm | 100 pts",
+        "points": 100,
+        "dueDate": "2023-12-01T23:59:00Z",
+        "availableFrom": "2023-11-01T00:00:00Z",
+        "untilDate": "2023-12-01T23:59:00Z"
     },
     {
-        "_id": "A201",
-        "title": "Aerodynamics Quiz",
-        "course": "RS102"
+        "_id": "104",
+        "title": "A4",
+        "course": "RS101",
+        "description": "assignment instructions available online",
+        "date": "Multiple Modules | Due Sep 18 at 11:59pm | 100 pts",
+        "points": 100,
+        "dueDate": "2023-12-01T23:59:00Z",
+        "availableFrom": "2023-11-01T00:00:00Z",
+        "untilDate": "2023-12-01T23:59:00Z"
     },
     {
-        "_id": "A202",
-        "title": "Flow Analysis",
-        "course": "RS102"
+        "_id": "201",
+        "title": "Lab1 - Functional vs NonFuncional Requirements",
+        "course": "RS102",
+        "description": "assignment instructions available online",
+        "date": "Multiple Modules | Due Sep 18 at 11:59pm | 100 pts",
+        "points": 100,
+        "dueDate": "2023-12-01T23:59:00Z",
+        "availableFrom": "2023-11-01T00:00:00Z",
+        "untilDate": "2023-12-01T23:59:00Z"
     },
     {
-        "_id": "A203",
-        "title": "Heating Analysis",
-        "course": "RS102"
+        "_id": "202",
+        "title": "A1 - Project Proposal",
+        "description": "assignment instructions available online",
+        "date": "Multiple Modules | Due Sep 18 at 11:59pm | 100 pts",
+        "course": "RS102",
+        "points": 100,
+        "dueDate": "2023-12-01T23:59:00Z",
+        "availableFrom": "2023-11-01T00:00:00Z",
+        "untilDate": "2023-12-01T23:59:00Z"
     },
     {
-        "_id": "A301",
-        "title": "Structural Design Task",
-        "course": "RS103"
+        "_id": "203",
+        "title": "A2 - Design Pattern",
+        "description": "assignment instructions available online",
+        "date": "Multiple Modules | Due Sep 18 at 11:59pm | 100 pts",
+        "course": "RS102",
+        "points": 100,
+        "dueDate": "2023-12-01T23:59:00Z",
+        "availableFrom": "2023-11-01T00:00:00Z",
+        "untilDate": "2023-12-01T23:59:00Z"
     },
     {
-        "_id": "A302",
-        "title": "Orbital Calculations",
-        "course": "RS103"
+        "_id": "301",
+        "title": "Lab1 - Functional vs NonFuncional Requirements",
+        "description": "assignment instructions available online",
+        "date": "Multiple Modules | Due Sep 18 at 11:59pm | 100 pts",
+        "course": "RS103",
+        "points": 100,
+        "dueDate": "2023-12-01T23:59:00Z",
+        "availableFrom": "2023-11-01T00:00:00Z",
+        "untilDate": "2023-12-01T23:59:00Z"
     },
     {
-        "_id": "A303",
-        "title": "Systems Engineering Exam",
-        "course": "RS103"
+        "_id": "302",
+        "title": "A1 - Cloud Computing Intro Lab",
+        "description": "assignment instructions available online",
+        "date": "Multiple Modules | Due Sep 18 at 11:59pm | 100 pts",
+        "course": "RS103",
+        "points": 100,
+        "dueDate": "2023-12-01T23:59:00Z",
+        "availableFrom": "2023-11-01T00:00:00Z",
+        "untilDate": "2023-12-01T23:59:00Z"
+    },
+    {
+        "_id": "303",
+        "title": "A2 - SaaS",
+        "description": "assignment instructions available online",
+        "date": "Multiple Modules | Due Sep 18 at 11:59pm | 100 pts",
+        "course": "RS103",
+        "points": 100,
+        "dueDate": "2023-12-01T23:59:00Z",
+        "availableFrom": "2023-11-01T00:00:00Z",
+        "untilDate": "2023-12-01T23:59:00Z"
     }
 ]
